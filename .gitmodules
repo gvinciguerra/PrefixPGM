@@ -1,0 +1,3 @@
+[submodule "wide-integer"]
+	path = wide-integer
+	url = https://github.com/ckormanyos/wide-integer.git
